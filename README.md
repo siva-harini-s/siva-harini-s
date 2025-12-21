@@ -1,6 +1,5 @@
-## Hi there 👋
-<!-- Profile Header -->
-<h1 align="left">Hi there 👋, I am Siva Harini!</h1>
+## Hi there 👋,I am Siva Harini!
+
 
 ### About Me
 I’m a <b>Data Engineer</b> with expertise in:
