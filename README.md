@@ -98,11 +98,11 @@ Currently working at **CVS Health**, based in **Chicago**.
 - _Tech:_ OpenAI API, LangChain, Pinecone, Flask, React  
 
 
-### 📊 4. **Customer Lifetime Value Prediction**
-- Deep learning model to predict CLV for e-commerce retailers.  
-- Compared CNN, LSTM, and MLP architectures.  
-- Published paper draft for IEEE submission.  
-- _Tech:_ TensorFlow, Keras, Pandas, NumPy  
+### 📊 4. **Airbnb Listing Analysis & High-Review Prediction using Machine Learning**
+- Built an end-to-end machine learning pipeline to predict high-review Airbnb listings by performing data cleaning, feature engineering, model training, and evaluation on real-world listing data.  
+- Engineered meaningful features such as price per person and price-to-service fee ratio to improve model interpretability and prediction accuracy.  
+- Trained and compared multiple ML models including Random Forest, Gradient Boosting, Logistic Regression, and SVM using cross-validation to identify the best-performing classifier.
+- _Tech:_ Pyrhon, PCA, Seaborn, Matplotlib, scikit-learn, Pandas, NumPy  
 
 
 
