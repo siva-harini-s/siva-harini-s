@@ -9,7 +9,6 @@ I’m a <b>Data Engineer</b> with expertise in:
 - ☁️ Cloud & Data: AWS / Snowflake / Redshift / Spark / SQL
 - 🤖 ML/AI (Intermediate)
 
-Currently working at **CVS Health**, based in **Chicago**.
 
 ---
 
